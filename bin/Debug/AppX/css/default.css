@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.headerClass
+{
+    margin-top: 45px;
+    text-align:center
+}
+
+.mainContent
+{
+    margin-top: 31px;
+    margin-bottom:50px;
+    text-align:center
+}
+
+#counter
+{
+    height: 20px;
+    margin-bottom:40px;
+}

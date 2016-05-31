@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4Q7DQHG</Machine>
+    <WindowsUser>Mukund Ayodhya</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82ac2190-2055-4462-9298-d38ab945f3ef</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B88935441F3D57443F60EB807313B9FC63A39A89AF3EC97B5335ED91093DC199</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>82ac2190-2055-4462-9298-d38ab945f3ef_1.0.0.0_neutral__h7tbsjq1vzbvr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>82ac2190-2055-4462-9298-d38ab945f3ef_h7tbsjq1vzbvr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>82ac2190-2055-4462-9298-d38ab945f3ef</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mukund Ayodhya</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-29T10:29:27.449</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-05-29T12:55:26.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T13:36:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-05-29T13:19:53.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-04-18T13:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-04-18T13:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-05-29T13:22:53.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-04-18T13:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-04-18T13:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mukund Ayodhya\documents\visual studio 2015\Projects\App4\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-29T10:29:27.042</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
